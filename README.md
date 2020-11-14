@@ -14,7 +14,7 @@ I enjoy working in non-hierarchical, transparent, and trust-based environments.\
 I love traveling, music, and technology.
 
 Here you can find my resume:
-https://sohrabtaee.github.io/resume/
+https://sohrab-taee-cv.netlify.app/
 
 You can also find me on LinkedIn:
 https://www.linkedin.com/in/sohrabtaee/
