@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer with **8+ years** of experience. For most of my career, I've been focused on the **front-end**, plus a few years of WordPress development.
+I'm a software engineer with **10+ years** of experience. For most of my career, I've been focused on the **web development**.
 
 I've worked as a team-lead, a consultant, a developer in agile-based product teams, and a solo developer.\
 I've been also involved in interviewing and mentoring developers.
