@@ -1,17 +1,17 @@
 ### Hi there 👋
 
-I'm a software engineer with **10+ years** of experience. For most of my career, I've been focused on the **web development**.
+I’m a software engineer with over **12 years** of experience, specializing in **web development**.
 
-I've worked as a team-lead, a consultant, a developer in agile-based product teams, and a solo developer.\
-I've been also involved in interviewing and mentoring developers.
+Throughout my career, I have taken on roles such as team lead, consultant, developer in agile product teams, and solo developer.
+I have also been actively involved in interviewing and mentoring developers.
 
-My technical workflow consists of using Git, writing well-tested maintainable code, and conducting code reviews.\
-I also have a keen eye for UX.
+My technical expertise includes writing well-tested and maintainable code, and conducting thorough code reviews.
+Additionally, I have a keen eye for UX design.
 
-I do my best to have a balance in every aspect of my career and personal life.\
-I'm a constant learner and I value personal development.\
-I enjoy working in **transparent**, **trust-based**, and **feedback-oriented** environments.\
-I love traveling, music, and technology.
+I strive to maintain a balanced career and personal life.
+I am a constant learner who values personal development.
+I thrive in **transparent**, **trust-based**, and **feedback-oriented** environments.
+Outside of work, I enjoy traveling, music, reading, and of course technology.
 
 Here you can find my resume:
 https://sohrab-taee-cv.netlify.app/
