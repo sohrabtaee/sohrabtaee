@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a software engineer with over **12 years** of experience, specializing in **web development**.
+I’m a software engineer with **12+ years** of experience, specializing in **web development**.
 
 Throughout my career, I have taken on roles such as team lead, consultant, developer in agile product teams, and solo developer.
 I have also been actively involved in interviewing and mentoring developers.
